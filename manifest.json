@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T14:11:21.487Z",
-  "count": 34,
+  "generatedAt": "2026-07-13T14:47:09.616Z",
+  "count": 32,
   "items": [
     {
       "id": "drill-001-component-ac220v",
@@ -16,41 +16,6 @@
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/DRILL-001_Component_AC220V.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/DRILL-001_Component_AC220V.png",
-      "objectKey": "",
-      "enabled": true
-    },
-    {
-      "id": "fan-001-component-overview",
-      "title": "FAN-001 Component Overview",
-      "product": "fan",
-      "type": "component",
-      "keywords": [
-        "fan 001 component overview",
-        "fan",
-        "component",
-        "overview",
-        "พัดลม"
-      ],
-      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/FAN-001_Component_Overview.png",
-      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/FAN-001_Component_Overview.png",
-      "objectKey": "",
-      "enabled": true
-    },
-    {
-      "id": "fan-002-capacitor-run-motor",
-      "title": "FAN-002 Capacitor Run Motor",
-      "product": "fan",
-      "type": "general",
-      "keywords": [
-        "fan 002 capacitor run motor",
-        "fan",
-        "capacitor",
-        "run",
-        "motor",
-        "พัดลม"
-      ],
-      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/FAN-002_Capacitor_Run_Motor.png",
-      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/FAN-002_Capacitor_Run_Motor.png",
       "objectKey": "",
       "enabled": true
     },
