@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T14:47:09.616Z",
-  "count": 32,
+  "generatedAt": "2026-07-13T14:47:41.058Z",
+  "count": 31,
   "items": [
     {
       "id": "drill-001-component-ac220v",
@@ -16,23 +16,6 @@
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/DRILL-001_Component_AC220V.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/DRILL-001_Component_AC220V.png",
-      "objectKey": "",
-      "enabled": true
-    },
-    {
-      "id": "fan-003-portable-fan-nikito",
-      "title": "FAN-003 Portable Fan NIKITO",
-      "product": "fan",
-      "type": "general",
-      "keywords": [
-        "fan 003 portable fan nikito",
-        "fan",
-        "portable",
-        "nikito",
-        "พัดลม"
-      ],
-      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/FAN-003_Portable_Fan_NIKITO.png",
-      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/FAN-003_Portable_Fan_NIKITO.png",
       "objectKey": "",
       "enabled": true
     },
