@@ -1,6 +1,109 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T13:06:11.148Z",
-  "count": 0,
-  "items": []
+  "generatedAt": "2026-07-13T13:43:53.066Z",
+  "count": 5,
+  "items": [
+    {
+      "id": "rac-diag-001-air-not-cooling",
+      "title": "RAC-DIAG-001-Air-Not-Cooling",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 001 air not cooling",
+        "rac",
+        "diag",
+        "air",
+        "not",
+        "cooling",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-001-Air-Not-Cooling.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-001-Air-Not-Cooling.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-002-air-not-running",
+      "title": "RAC-DIAG-002-Air-Not-Running",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 002 air not running",
+        "rac",
+        "diag",
+        "air",
+        "not",
+        "running",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-002-Air-Not-Running.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-002-Air-Not-Running.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-003-water-leak",
+      "title": "RAC-DIAG-003-Water-Leak",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 003 water leak",
+        "rac",
+        "diag",
+        "water",
+        "leak",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-003-Water-Leak.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-003-Water-Leak.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-004-abnormal-noise",
+      "title": "RAC-DIAG-004-Abnormal-Noise",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 004 abnormal noise",
+        "rac",
+        "diag",
+        "abnormal",
+        "noise",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-004-Abnormal-Noise.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-004-Abnormal-Noise.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-005-bad-odor",
+      "title": "RAC-DIAG-005-Bad-Odor",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 005 bad odor",
+        "rac",
+        "diag",
+        "bad",
+        "odor",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-005-Bad-Odor.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-005-Bad-Odor.png",
+      "objectKey": "",
+      "enabled": true
+    }
+  ]
 }
