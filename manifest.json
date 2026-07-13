@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T13:43:53.066Z",
-  "count": 5,
+  "generatedAt": "2026-07-13T13:44:55.484Z",
+  "count": 10,
   "items": [
     {
       "id": "rac-diag-001-air-not-cooling",
@@ -102,6 +102,108 @@
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-005-Bad-Odor.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-005-Bad-Odor.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-006-breaker-trip",
+      "title": "RAC-DIAG-006-Breaker-Trip",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 006 breaker trip",
+        "rac",
+        "diag",
+        "breaker",
+        "trip",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-006-Breaker-Trip.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-006-Breaker-Trip.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-007-compressor-not-running",
+      "title": "RAC-DIAG-007-Compressor-Not-Running",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 007 compressor not running",
+        "rac",
+        "diag",
+        "compressor",
+        "not",
+        "running",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-007-Compressor-Not-Running.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-007-Compressor-Not-Running.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-008-fan-not-running",
+      "title": "RAC-DIAG-008-Fan-Not-Running",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 008 fan not running",
+        "rac",
+        "diag",
+        "fan",
+        "not",
+        "running",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-008-Fan-Not-Running.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-008-Fan-Not-Running.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-009-weak-airflow",
+      "title": "RAC-DIAG-009-Weak-Airflow",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 009 weak airflow",
+        "rac",
+        "diag",
+        "weak",
+        "airflow",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-009-Weak-Airflow.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-009-Weak-Airflow.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-010-evaporator-icing",
+      "title": "RAC-DIAG-010-Evaporator-Icing",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 010 evaporator icing",
+        "rac",
+        "diag",
+        "evaporator",
+        "icing",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-010-Evaporator-Icing.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-010-Evaporator-Icing.png",
       "objectKey": "",
       "enabled": true
     }
