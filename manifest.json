@@ -1,8 +1,25 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T13:48:01.653Z",
-  "count": 27,
+  "generatedAt": "2026-07-13T14:09:59.149Z",
+  "count": 28,
   "items": [
+    {
+      "id": "ice-guide-001-ice-maker-user-guide",
+      "title": "ICE-GUIDE-001-Ice-Maker-User-Guide",
+      "product": "general",
+      "type": "general",
+      "keywords": [
+        "ice guide 001 ice maker user guide",
+        "ice",
+        "guide",
+        "maker",
+        "user"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/ICE-GUIDE-001-Ice-Maker-User-Guide.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/ICE-GUIDE-001-Ice-Maker-User-Guide.png",
+      "objectKey": "",
+      "enabled": true
+    },
     {
       "id": "rac-diag-001-air-not-cooling",
       "title": "RAC-DIAG-001-Air-Not-Cooling",
