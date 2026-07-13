@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T13:45:55.396Z",
-  "count": 17,
+  "generatedAt": "2026-07-13T13:48:01.653Z",
+  "count": 27,
   "items": [
     {
       "id": "rac-diag-001-air-not-cooling",
@@ -348,6 +348,211 @@
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-018-Inverter-System-Failure.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-018-Inverter-System-Failure.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-002-air-not-running",
+      "title": "RAC-EXEC-002-Air-Not-Running",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac exec 002 air not running",
+        "rac",
+        "exec",
+        "air",
+        "not",
+        "running",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-002-Air-Not-Running.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-002-Air-Not-Running.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-003-water-leak-indoor-outdoor",
+      "title": "RAC-EXEC-003-Water-Leak-Indoor-Outdoor",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac exec 003 water leak indoor outdoor",
+        "rac",
+        "exec",
+        "water",
+        "leak",
+        "indoor",
+        "outdoor",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-003-Water-Leak-Indoor-Outdoor.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-003-Water-Leak-Indoor-Outdoor.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-004-abnormal-noise",
+      "title": "RAC-EXEC-004-Abnormal-Noise",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac exec 004 abnormal noise",
+        "rac",
+        "exec",
+        "abnormal",
+        "noise",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-004-Abnormal-Noise.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-004-Abnormal-Noise.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-005-musty-sour-odor",
+      "title": "RAC-EXEC-005-Musty-Sour-Odor",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac exec 005 musty sour odor",
+        "rac",
+        "exec",
+        "musty",
+        "sour",
+        "odor",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-005-Musty-Sour-Odor.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-005-Musty-Sour-Odor.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-006-uneven-cooling",
+      "title": "RAC-EXEC-006-Uneven-Cooling",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac exec 006 uneven cooling",
+        "rac",
+        "exec",
+        "uneven",
+        "cooling",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-006-Uneven-Cooling.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-006-Uneven-Cooling.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-008-breaker-trip",
+      "title": "RAC-EXEC-008-Breaker-Trip",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac exec 008 breaker trip",
+        "rac",
+        "exec",
+        "breaker",
+        "trip",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-008-Breaker-Trip.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-008-Breaker-Trip.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-009-remote-not-working",
+      "title": "RAC-EXEC-009-Remote-Not-Working",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac exec 009 remote not working",
+        "rac",
+        "exec",
+        "remote",
+        "not",
+        "working",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-009-Remote-Not-Working.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-009-Remote-Not-Working.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-exec-010-error-code",
+      "title": "RAC-EXEC-010-Error-Code",
+      "product": "air",
+      "type": "diagnosis",
+      "keywords": [
+        "rac exec 010 error code",
+        "rac",
+        "exec",
+        "error",
+        "code",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-010-Error-Code.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-010-Error-Code.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-install-001-vacuum-standard",
+      "title": "RAC-INSTALL-001-Vacuum-Standard",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac install 001 vacuum standard",
+        "rac",
+        "install",
+        "vacuum",
+        "standard",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-INSTALL-001-Vacuum-Standard.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-INSTALL-001-Vacuum-Standard.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-survey-001-btu-calculation",
+      "title": "RAC-SURVEY-001-BTU-Calculation",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac survey 001 btu calculation",
+        "rac",
+        "survey",
+        "btu",
+        "calculation",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-SURVEY-001-BTU-Calculation.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-SURVEY-001-BTU-Calculation.png",
       "objectKey": "",
       "enabled": true
     }
