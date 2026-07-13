@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T13:44:55.484Z",
-  "count": 10,
+  "generatedAt": "2026-07-13T13:45:55.396Z",
+  "count": 17,
   "items": [
     {
       "id": "rac-diag-001-air-not-cooling",
@@ -204,6 +204,150 @@
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-010-Evaporator-Icing.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-010-Evaporator-Icing.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-012-runs-continuously",
+      "title": "RAC-DIAG-012-Runs-Continuously",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 012 runs continuously",
+        "rac",
+        "diag",
+        "runs",
+        "continuously",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-012-Runs-Continuously.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-012-Runs-Continuously.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-013-remote-not-working",
+      "title": "RAC-DIAG-013-Remote-Not-Working",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 013 remote not working",
+        "rac",
+        "diag",
+        "remote",
+        "not",
+        "working",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-013-Remote-Not-Working.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-013-Remote-Not-Working.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-014-display-not-working",
+      "title": "RAC-DIAG-014-Display-Not-Working",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 014 display not working",
+        "rac",
+        "diag",
+        "display",
+        "not",
+        "working",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-014-Display-Not-Working.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-014-Display-Not-Working.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-015-error-code",
+      "title": "RAC-DIAG-015-Error-Code",
+      "product": "air",
+      "type": "diagnosis",
+      "keywords": [
+        "rac diag 015 error code",
+        "rac",
+        "diag",
+        "error",
+        "code",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-015-Error-Code.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-015-Error-Code.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-016-high-power-consumption",
+      "title": "RAC-DIAG-016-High-Power-Consumption",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 016 high power consumption",
+        "rac",
+        "diag",
+        "high",
+        "power",
+        "consumption",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-016-High-Power-Consumption.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-016-High-Power-Consumption.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-017-abnormal-vibration",
+      "title": "RAC-DIAG-017-Abnormal-Vibration",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 017 abnormal vibration",
+        "rac",
+        "diag",
+        "abnormal",
+        "vibration",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-017-Abnormal-Vibration.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-017-Abnormal-Vibration.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "rac-diag-018-inverter-system-failure",
+      "title": "RAC-DIAG-018-Inverter-System-Failure",
+      "product": "air",
+      "type": "general",
+      "keywords": [
+        "rac diag 018 inverter system failure",
+        "rac",
+        "diag",
+        "inverter",
+        "system",
+        "failure",
+        "แอร์",
+        "เครื่องปรับอากาศ",
+        "air conditioner"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-018-Inverter-System-Failure.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-018-Inverter-System-Failure.png",
       "objectKey": "",
       "enabled": true
     }
