@@ -2,7 +2,8 @@ name: Build Visual Manifest
 
 on:
   push:
-    branches: ["main"]
+    branches:
+      - main
     paths:
       - "**/*.png"
       - "**/*.jpg"
@@ -10,6 +11,7 @@ on:
       - "**/*.webp"
       - "scripts/generate-manifest.mjs"
       - ".github/workflows/build-manifest.yml"
+
   workflow_dispatch:
 
 permissions:
@@ -17,12 +19,13 @@ permissions:
 
 jobs:
   build-manifest:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -36,8 +39,9 @@ jobs:
           node scripts/generate-manifest.mjs
 
       - name: Commit manifest if changed
+        shell: bash
         run: |
-          if git diff --quiet -- manifest.json; then
+          if [ -z "$(git status --porcelain -- manifest.json)" ]; then
             echo "No changes"
             exit 0
           fi
