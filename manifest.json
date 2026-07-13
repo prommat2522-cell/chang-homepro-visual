@@ -1,50 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T13:05:25.179Z",
-  "count": 3,
-  "items": [
-    {
-      "id": "v3",
-      "title": "การแก้ไข V3",
-      "product": "general",
-      "type": "general",
-      "keywords": [
-        "การแก้ไข v3",
-        "การแก้ไข",
-        "v3"
-      ],
-      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%20V3.png",
-      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%20V3.png",
-      "objectKey": "",
-      "enabled": true
-    },
-    {
-      "id": "visual-2",
-      "title": "การแวคคั่ม",
-      "product": "general",
-      "type": "general",
-      "keywords": [
-        "การแวคคั่ม"
-      ],
-      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A7%E0%B8%84%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%A1.png",
-      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A7%E0%B8%84%E0%B8%84%E0%B8%B1%E0%B9%88%E0%B8%A1.png",
-      "objectKey": "",
-      "enabled": true
-    },
-    {
-      "id": "btu",
-      "title": "คำรสณ BTU",
-      "product": "general",
-      "type": "general",
-      "keywords": [
-        "คำรสณ btu",
-        "คำรสณ",
-        "btu"
-      ],
-      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/%E0%B8%84%E0%B8%B3%E0%B8%A3%E0%B8%AA%E0%B8%93%20BTU.png",
-      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/%E0%B8%84%E0%B8%B3%E0%B8%A3%E0%B8%AA%E0%B8%93%20BTU.png",
-      "objectKey": "",
-      "enabled": true
-    }
-  ]
+  "generatedAt": "2026-07-13T13:06:11.148Z",
+  "count": 0,
+  "items": []
 }
