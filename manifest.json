@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
-  "generatedAt": "2026-07-14T04:11:09.806988Z",
+  "version": "1.2",
+  "generatedAt": "2026-07-14T04:39:56.483750Z",
   "count": 37,
   "items": [
     {
@@ -17,7 +17,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/DRILL-001_Component_AC220V.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/DRILL-001_Component_AC220V.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "general"
     },
     {
       "id": "ice-guide-001-ice-maker-user-guide",
@@ -36,7 +39,8 @@
       "objectKey": "",
       "enabled": true,
       "symptom": "user_guide",
-      "stage": "reference"
+      "stage": "reference",
+      "pack": "ice_maker"
     },
     {
       "id": "rac-diag-001-air-not-cooling",
@@ -57,7 +61,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-001-Air-Not-Cooling.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-001-Air-Not-Cooling.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-002-air-not-running",
@@ -78,7 +85,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-002-Air-Not-Running.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-002-Air-Not-Running.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-003-water-leak",
@@ -98,7 +108,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-003-Water-Leak.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-003-Water-Leak.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-004-abnormal-noise",
@@ -118,7 +131,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-004-Abnormal-Noise.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-004-Abnormal-Noise.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-005-bad-odor",
@@ -138,7 +154,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-005-Bad-Odor.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-005-Bad-Odor.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-006-breaker-trip",
@@ -158,7 +177,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-006-Breaker-Trip.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-006-Breaker-Trip.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-007-compressor-not-running",
@@ -179,7 +201,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-007-Compressor-Not-Running.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-007-Compressor-Not-Running.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-008-fan-not-running",
@@ -200,7 +225,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-008-Fan-Not-Running.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-008-Fan-Not-Running.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-009-weak-airflow",
@@ -220,7 +248,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-009-Weak-Airflow.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-009-Weak-Airflow.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-010-evaporator-icing",
@@ -240,7 +271,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-010-Evaporator-Icing.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-010-Evaporator-Icing.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-012-runs-continuously",
@@ -260,7 +294,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-012-Runs-Continuously.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-012-Runs-Continuously.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-013-remote-not-working",
@@ -281,7 +318,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-013-Remote-Not-Working.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-013-Remote-Not-Working.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-014-display-not-working",
@@ -302,7 +342,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-014-Display-Not-Working.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-014-Display-Not-Working.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-015-error-code",
@@ -322,7 +365,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-015-Error-Code.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-015-Error-Code.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-016-high-power-consumption",
@@ -343,7 +389,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-016-High-Power-Consumption.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-016-High-Power-Consumption.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-017-abnormal-vibration",
@@ -363,7 +412,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-017-Abnormal-Vibration.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-017-Abnormal-Vibration.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-diag-018-inverter-system-failure",
@@ -384,7 +436,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-018-Inverter-System-Failure.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-DIAG-018-Inverter-System-Failure.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-002-air-not-running",
@@ -405,7 +460,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-002-Air-Not-Running.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-002-Air-Not-Running.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-003-water-leak-indoor-outdoor",
@@ -427,7 +485,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-003-Water-Leak-Indoor-Outdoor.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-003-Water-Leak-Indoor-Outdoor.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-004-abnormal-noise",
@@ -447,7 +508,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-004-Abnormal-Noise.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-004-Abnormal-Noise.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-005-musty-sour-odor",
@@ -468,7 +532,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-005-Musty-Sour-Odor.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-005-Musty-Sour-Odor.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-006-uneven-cooling",
@@ -488,7 +555,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-006-Uneven-Cooling.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-006-Uneven-Cooling.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-008-breaker-trip",
@@ -508,7 +578,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-008-Breaker-Trip.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-008-Breaker-Trip.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-009-remote-not-working",
@@ -529,7 +602,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-009-Remote-Not-Working.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-009-Remote-Not-Working.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-exec-010-error-code",
@@ -549,7 +625,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-010-Error-Code.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-EXEC-010-Error-Code.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-install-001-vacuum-standard",
@@ -569,7 +648,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-INSTALL-001-Vacuum-Standard.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-INSTALL-001-Vacuum-Standard.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rac-survey-001-btu-calculation",
@@ -589,7 +671,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-SURVEY-001-BTU-Calculation.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RAC-SURVEY-001-BTU-Calculation.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "air"
     },
     {
       "id": "rc-001-component-digital",
@@ -605,7 +690,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RC-001_Component_Digital.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/RC-001_Component_Digital.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "general"
     },
     {
       "id": "ss-001-10-service-checklist",
@@ -621,7 +709,10 @@
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/SS-001_10_Service_Checklist.jpg",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/SS-001_10_Service_Checklist.jpg",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "stage": "reference",
+      "symptom": "",
+      "pack": "general"
     },
     {
       "id": "wm-comp-001-top10-component-failure",
@@ -646,7 +737,8 @@
       "objectKey": "",
       "enabled": true,
       "symptom": "component_failure",
-      "stage": "reference"
+      "stage": "reference",
+      "pack": "washer"
     },
     {
       "id": "wm-diag-001-diagnostic-flow",
@@ -671,7 +763,8 @@
       "objectKey": "",
       "enabled": true,
       "symptom": "not_spinning",
-      "stage": "start"
+      "stage": "start",
+      "pack": "washer"
     },
     {
       "id": "wm-diag-002-common-issues-6-10",
@@ -695,7 +788,8 @@
       "objectKey": "",
       "enabled": true,
       "symptom": "common_issues_6_10",
-      "stage": "reference"
+      "stage": "reference",
+      "pack": "washer"
     },
     {
       "id": "wm-diag-003-top5-issues",
@@ -720,7 +814,8 @@
       "objectKey": "",
       "enabled": true,
       "symptom": "top5_issues",
-      "stage": "reference"
+      "stage": "reference",
+      "pack": "washer"
     },
     {
       "id": "wm-install-001-installation-standard",
@@ -742,7 +837,8 @@
       "objectKey": "",
       "enabled": true,
       "symptom": "installation",
-      "stage": "reference"
+      "stage": "reference",
+      "pack": "washer"
     },
     {
       "id": "wm-pm-001-preventive-maintenance",
@@ -765,7 +861,9 @@
       "objectKey": "",
       "enabled": true,
       "symptom": "maintenance",
-      "stage": "reference"
+      "stage": "reference",
+      "pack": "washer"
     }
-  ]
+  ],
+  "schemaVersion": "product-pack-1.0"
 }
