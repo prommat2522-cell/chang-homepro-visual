@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-07-13T14:47:41.058Z",
-  "count": 31,
+  "generatedAt": "2026-07-14T04:01:57.468Z",
+  "count": 37,
   "items": [
     {
       "id": "drill-001-component-ac220v",
@@ -618,6 +618,121 @@
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/SS-001_10_Service_Checklist.jpg",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/SS-001_10_Service_Checklist.jpg",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "wm-comp-001-top10-component-failure",
+      "title": "WM-COMP-001-Top10-Component-Failure",
+      "product": "washer",
+      "type": "component",
+      "keywords": [
+        "wm comp 001 top10 component failure",
+        "wm",
+        "comp",
+        "top10",
+        "component",
+        "failure",
+        "เครื่องซักผ้า",
+        "washer"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-COMP-001-Top10-Component-Failure.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-COMP-001-Top10-Component-Failure.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "wm-diag-001-diagnostic-flow",
+      "title": "WM-DIAG-001-Diagnostic-Flow",
+      "product": "washer",
+      "type": "general",
+      "keywords": [
+        "wm diag 001 diagnostic flow",
+        "wm",
+        "diag",
+        "diagnostic",
+        "flow",
+        "เครื่องซักผ้า",
+        "washer"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-001-Diagnostic-Flow.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-001-Diagnostic-Flow.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "wm-diag-002-common-issues-6-10",
+      "title": "WM-DIAG-002-Common-Issues-6-10",
+      "product": "washer",
+      "type": "general",
+      "keywords": [
+        "wm diag 002 common issues 6 10",
+        "wm",
+        "diag",
+        "common",
+        "issues",
+        "เครื่องซักผ้า",
+        "washer"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-002-Common-Issues-6-10.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-002-Common-Issues-6-10.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "wm-diag-003-top5-issues",
+      "title": "WM-DIAG-003-Top5-Issues",
+      "product": "washer",
+      "type": "general",
+      "keywords": [
+        "wm diag 003 top5 issues",
+        "wm",
+        "diag",
+        "top5",
+        "issues",
+        "เครื่องซักผ้า",
+        "washer"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-003-Top5-Issues.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-003-Top5-Issues.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "wm-install-001-installation-standard",
+      "title": "WM-INSTALL-001-Installation-Standard",
+      "product": "washer",
+      "type": "installation",
+      "keywords": [
+        "wm install 001 installation standard",
+        "wm",
+        "install",
+        "installation",
+        "standard",
+        "เครื่องซักผ้า",
+        "washer"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-INSTALL-001-Installation-Standard.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-INSTALL-001-Installation-Standard.png",
+      "objectKey": "",
+      "enabled": true
+    },
+    {
+      "id": "wm-pm-001-preventive-maintenance",
+      "title": "WM-PM-001-Preventive-Maintenance",
+      "product": "washer",
+      "type": "maintenance",
+      "keywords": [
+        "wm pm 001 preventive maintenance",
+        "wm",
+        "pm",
+        "preventive",
+        "maintenance",
+        "เครื่องซักผ้า",
+        "washer"
+      ],
+      "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-PM-001-Preventive-Maintenance.png",
+      "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-PM-001-Preventive-Maintenance.png",
       "objectKey": "",
       "enabled": true
     }
