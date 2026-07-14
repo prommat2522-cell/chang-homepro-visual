@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "generatedAt": "2026-07-14T04:01:57.468Z",
+  "version": "1.1",
+  "generatedAt": "2026-07-14T04:11:09.806988Z",
   "count": 37,
   "items": [
     {
@@ -22,19 +22,21 @@
     {
       "id": "ice-guide-001-ice-maker-user-guide",
       "title": "ICE-GUIDE-001-Ice-Maker-User-Guide",
-      "product": "general",
+      "product": "ice_maker",
       "type": "general",
       "keywords": [
-        "ice guide 001 ice maker user guide",
-        "ice",
-        "guide",
-        "maker",
-        "user"
+        "เครื่องทำน้ำแข็ง",
+        "ice maker",
+        "คู่มือเครื่องทำน้ำแข็ง",
+        "วิธีใช้งานเครื่องทำน้ำแข็ง",
+        "ice maker user guide"
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/ICE-GUIDE-001-Ice-Maker-User-Guide.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/ICE-GUIDE-001-Ice-Maker-User-Guide.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "symptom": "user_guide",
+      "stage": "reference"
     },
     {
       "id": "rac-diag-001-air-not-cooling",
@@ -627,76 +629,98 @@
       "product": "washer",
       "type": "component",
       "keywords": [
-        "wm comp 001 top10 component failure",
-        "wm",
-        "comp",
-        "top10",
-        "component",
-        "failure",
         "เครื่องซักผ้า",
-        "washer"
+        "washer",
+        "อะไหล่เครื่องซักผ้า",
+        "อุปกรณ์เสียบ่อย",
+        "ชิ้นส่วนเสีย",
+        "component failure",
+        "ปั๊มน้ำทิ้ง",
+        "วาล์วน้ำเข้า",
+        "door lock",
+        "สายพาน",
+        "ลูกปืน"
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-COMP-001-Top10-Component-Failure.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-COMP-001-Top10-Component-Failure.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "symptom": "component_failure",
+      "stage": "reference"
     },
     {
       "id": "wm-diag-001-diagnostic-flow",
       "title": "WM-DIAG-001-Diagnostic-Flow",
       "product": "washer",
-      "type": "general",
+      "type": "diagnosis",
       "keywords": [
-        "wm diag 001 diagnostic flow",
-        "wm",
-        "diag",
-        "diagnostic",
-        "flow",
         "เครื่องซักผ้า",
-        "washer"
+        "washer",
+        "เครื่องซักผ้าไม่ปั่น",
+        "ไม่ปั่น",
+        "ปั่นไม่ได้",
+        "ไม่เข้ารอบปั่น",
+        "ถังไม่หมุน",
+        "spin",
+        "not spinning",
+        "diagnostic flow",
+        "ตรวจอาการเครื่องซักผ้า"
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-001-Diagnostic-Flow.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-001-Diagnostic-Flow.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "symptom": "not_spinning",
+      "stage": "start"
     },
     {
       "id": "wm-diag-002-common-issues-6-10",
       "title": "WM-DIAG-002-Common-Issues-6-10",
       "product": "washer",
-      "type": "general",
+      "type": "diagnosis",
       "keywords": [
-        "wm diag 002 common issues 6 10",
-        "wm",
-        "diag",
-        "common",
-        "issues",
         "เครื่องซักผ้า",
-        "washer"
+        "washer",
+        "อาการเสียเครื่องซักผ้า",
+        "ปัญหาที่พบบ่อย",
+        "common issues",
+        "อาการ 6 ถึง 10",
+        "เครื่องซักผ้าเสียงดัง",
+        "เครื่องซักผ้าสั่นแรง",
+        "เครื่องซักผ้าไม่ระบายน้ำ",
+        "เครื่องซักผ้าน้ำไม่เข้า"
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-002-Common-Issues-6-10.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-002-Common-Issues-6-10.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "symptom": "common_issues_6_10",
+      "stage": "reference"
     },
     {
       "id": "wm-diag-003-top5-issues",
       "title": "WM-DIAG-003-Top5-Issues",
       "product": "washer",
-      "type": "general",
+      "type": "diagnosis",
       "keywords": [
-        "wm diag 003 top5 issues",
-        "wm",
-        "diag",
-        "top5",
-        "issues",
         "เครื่องซักผ้า",
-        "washer"
+        "washer",
+        "อาการเสียเครื่องซักผ้า",
+        "5 อาการเสีย",
+        "top 5 issues",
+        "ปัญหาที่พบบ่อย",
+        "ไม่ทำงาน",
+        "ไม่รับน้ำ",
+        "ไม่ระบายน้ำ",
+        "ไม่ปั่น",
+        "เสียงดัง"
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-003-Top5-Issues.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-DIAG-003-Top5-Issues.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "symptom": "top5_issues",
+      "stage": "reference"
     },
     {
       "id": "wm-install-001-installation-standard",
@@ -704,18 +728,21 @@
       "product": "washer",
       "type": "installation",
       "keywords": [
-        "wm install 001 installation standard",
-        "wm",
-        "install",
-        "installation",
-        "standard",
         "เครื่องซักผ้า",
-        "washer"
+        "washer",
+        "ติดตั้งเครื่องซักผ้า",
+        "มาตรฐานติดตั้ง",
+        "installation standard",
+        "ท่อน้ำทิ้ง",
+        "สายดิน",
+        "ปรับระดับเครื่อง"
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-INSTALL-001-Installation-Standard.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-INSTALL-001-Installation-Standard.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "symptom": "installation",
+      "stage": "reference"
     },
     {
       "id": "wm-pm-001-preventive-maintenance",
@@ -723,18 +750,22 @@
       "product": "washer",
       "type": "maintenance",
       "keywords": [
-        "wm pm 001 preventive maintenance",
-        "wm",
-        "pm",
-        "preventive",
-        "maintenance",
         "เครื่องซักผ้า",
-        "washer"
+        "washer",
+        "บำรุงรักษาเครื่องซักผ้า",
+        "ทำความสะอาด",
+        "preventive maintenance",
+        "pm เครื่องซักผ้า",
+        "ล้างถัง",
+        "ไส้กรอง",
+        "ดูแลเครื่องซักผ้า"
       ],
       "originalUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-PM-001-Preventive-Maintenance.png",
       "previewUrl": "https://prommat2522-cell.github.io/chang-homepro-visual/WM-PM-001-Preventive-Maintenance.png",
       "objectKey": "",
-      "enabled": true
+      "enabled": true,
+      "symptom": "maintenance",
+      "stage": "reference"
     }
   ]
 }
